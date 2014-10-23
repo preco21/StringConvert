@@ -52,4 +52,6 @@ int main()
 =================
 Some cases you should to set locale before use, see this both link:
 
-http://en.cppreference.com/w/cpp/locale/setlocale \ http://en.cppreference.com/w/cpp/locale/locale/global
+http://en.cppreference.com/w/cpp/locale/setlocale
+
+http://en.cppreference.com/w/cpp/locale/locale/global
