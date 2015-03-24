@@ -50,7 +50,7 @@ int main()
 
 [Troubleshooting]
 =================
-Some cases you should to set locale before use, see this both link:
+Some cases you should set locale, see this both link:
 
 http://en.cppreference.com/w/cpp/locale/setlocale
 
