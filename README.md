@@ -1,12 +1,10 @@
-StringConvert.cpp
-=================
+.# StringConvert.cpp
 
 Simple C++11 string conversion class
 
 YOU MUST NEED FULLY C++11 IMPLEMENTED COMPILER
 
-[Function list]
-=================
+## Function list
 
 ```c++
 // WBCS to MBCS
@@ -34,8 +32,7 @@ static std::string u32StringToU8String(const std::u32string& u32String);
 static std::u16string u32StringToU16String(const std::u32string& u32String);
 ```
 
-[Usage]
-=================
+## Usage
 ```c++
 #include "StringConvert.hpp"
 #include <iostream>
@@ -48,8 +45,7 @@ int main()
 ```
 
 
-[Troubleshooting]
-=================
+## Troubleshooting
 Some cases you should set locale, see this both link:
 
 http://en.cppreference.com/w/cpp/locale/setlocale
