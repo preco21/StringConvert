@@ -46,8 +46,7 @@ int main()
 
 
 ## Troubleshooting
-Some cases you should set locale, see this both link:
+Some cases you might be set the locales, see this both link:
 
-http://en.cppreference.com/w/cpp/locale/setlocale
-
-http://en.cppreference.com/w/cpp/locale/locale/global
+* http://en.cppreference.com/w/cpp/locale/setlocale
+* http://en.cppreference.com/w/cpp/locale/locale/global
