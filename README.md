@@ -2,7 +2,7 @@
 
 Simple C++11 string conversion class
 
-YOU MUST NEED FULLY C++11 IMPLEMENTED COMPILER
+This library require C++11 implemented compiler (like VC 2015)
 
 ## Function list
 
