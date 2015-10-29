@@ -1,4 +1,4 @@
-# StringConvert.cpp
+# StringConvert
 
 Simple C++11 string conversion class
 
