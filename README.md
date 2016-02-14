@@ -1,10 +1,10 @@
 # StringConvert
 
-Simple C++11 string conversion class
+Simple C++11 based unicode encoding conversion class
 
-This library require C++11 implemented compiler (like VC 2015)
+**C++11 implemented compiler required**
 
-## Function list
+## Methods
 
 ```c++
 // WBCS to MBCS
@@ -33,6 +33,7 @@ static std::u16string u32StringToU16String(const std::u32string& u32String);
 ```
 
 ## Usage
+
 ```c++
 #include "StringConvert.hpp"
 #include <iostream>
@@ -44,9 +45,9 @@ int main()
 }
 ```
 
+## Trouble Shooting
 
-## Troubleshooting
-Some cases you might be set the locales, see this both link:
+Some cases you should set locales, see details:
 
 * http://en.cppreference.com/w/cpp/locale/setlocale
 * http://en.cppreference.com/w/cpp/locale/locale/global
