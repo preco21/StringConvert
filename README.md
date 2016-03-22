@@ -51,3 +51,7 @@ Some cases you should set locales, see details:
 
 * http://en.cppreference.com/w/cpp/locale/setlocale
 * http://en.cppreference.com/w/cpp/locale/locale/global
+
+## License
+
+Public Domain
