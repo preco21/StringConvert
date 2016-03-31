@@ -1,6 +1,6 @@
 # StringConvert
 
-Simple C++11 based unicode encoding conversion class
+Simple C++11 based string encoding helper class
 
 **C++11 implemented compiler required**
 
