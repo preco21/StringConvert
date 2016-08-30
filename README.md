@@ -1,6 +1,6 @@
 # StringConvert
 
-> Simple C++11 based string encoding helper
+> A simple C++11 based helper for converting string between a various charset
 
 **C++11 implemented compiler required**
 
