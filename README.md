@@ -54,4 +54,4 @@ Some cases you should set locales, see details:
 
 ## License
 
-Unlicense
+CC0 (Public Domain)
